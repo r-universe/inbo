@@ -53,3 +53,8 @@
 	url = https://github.com/clauswilke/colorblindr
 	shallow = true
 	registered = false
+[submodule "qrcode"]
+	path = qrcode
+	url = https://github.com/thierryo/qrcode
+	shallow = true
+	registered = false
