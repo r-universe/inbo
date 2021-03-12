@@ -1,5 +1,11 @@
 [
   {
+    "package": "INBOtheme",
+    "url": "https://github.com/inbo/inbotheme",
+    "via": ["ladybird"],
+    "from": "ladybird"
+  },
+  {
     "package": "INLA",
     "url": "https://github.com/inbo/INLA",
     "via": ["inlatools"],
@@ -28,11 +34,5 @@
     "url": "https://github.com/inbo/inbodb",
     "via": ["watina"],
     "from": "watina"
-  },
-  {
-    "package": "inbotheme",
-    "url": "https://github.com/inbo/inbotheme",
-    "via": ["ladybird"],
-    "from": "ladybird"
   }
 ]
