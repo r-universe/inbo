@@ -36,6 +36,12 @@
     "from": "ladybird"
   },
   {
+    "package": "inbodb",
+    "url": "https://github.com/inbo/inbodb",
+    "via": ["watina"],
+    "from": "watina"
+  },
+  {
     "package": "inbotheme",
     "url": "https://github.com/inbo/inbotheme",
     "via": ["ladybird"],
