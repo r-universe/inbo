@@ -1,0 +1,27 @@
+[
+  {
+    "package": "checklist"
+  },
+  {
+    "package": "git2rdata",
+    "oncran": true
+  },
+  {
+    "package": "grtsdb"
+  },
+  {
+    "package": "INBOtheme"
+  },
+  {
+    "package": "INBOmd"
+  },
+  {
+    "package": "inlatools"
+  },
+  {
+    "package": "multimput"
+  },
+  {
+    "package": "territoria"
+  }
+]

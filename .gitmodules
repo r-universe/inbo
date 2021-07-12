@@ -1,5 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/inbo/universe
 	shallow = true
 	branch = HEAD
+[submodule "checklist"]
+	path = checklist
+	url = https://github.com/inbo/checklist
+	shallow = true
+	registered = true
+[submodule "git2rdata"]
+	path = git2rdata
+	url = https://github.com/ropensci/git2rdata
+	shallow = true
+	registered = true
+[submodule "grtsdb"]
+	path = grtsdb
+	url = https://github.com/inbo/grtsdb
+	shallow = true
+	registered = true
+[submodule "INBOtheme"]
+	path = INBOtheme
+	url = https://github.com/inbo/inbotheme
+	shallow = true
+	registered = true
+[submodule "INBOmd"]
+	path = INBOmd
+	url = https://github.com/inbo/inbomd
+	shallow = true
+	registered = true
+[submodule "inlatools"]
+	path = inlatools
+	url = https://github.com/inbo/inlatools
+	shallow = true
+	registered = true
+[submodule "multimput"]
+	path = multimput
+	url = https://github.com/inbo/multimput
+	shallow = true
+	registered = true
+[submodule "territoria"]
+	path = territoria
+	url = https://github.com/inbo/territoria
+	shallow = true
+	registered = true
