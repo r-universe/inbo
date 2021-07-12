@@ -8,6 +8,11 @@
 	url = https://github.com/inbo/checklist
 	shallow = true
 	registered = true
+[submodule "effectclass"]
+	path = effectclass
+	url = https://github.com/inbo/effectclass
+	shallow = true
+	registered = true
 [submodule "git2rdata"]
 	path = git2rdata
 	url = https://github.com/ropensci/git2rdata
@@ -18,14 +23,19 @@
 	url = https://github.com/inbo/grtsdb
 	shallow = true
 	registered = true
-[submodule "INBOtheme"]
-	path = INBOtheme
-	url = https://github.com/inbo/inbotheme
+[submodule "ladybird"]
+	path = ladybird
+	url = https://github.com/inbo/ladybird
 	shallow = true
 	registered = true
 [submodule "INBOmd"]
 	path = INBOmd
 	url = https://github.com/inbo/inbomd
+	shallow = true
+	registered = true
+[submodule "INBOtheme"]
+	path = INBOtheme
+	url = https://github.com/inbo/inbotheme
 	shallow = true
 	registered = true
 [submodule "inlatools"]

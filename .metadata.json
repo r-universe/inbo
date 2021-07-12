@@ -3,6 +3,9 @@
     "package": "checklist"
   },
   {
+    "package": "effectclass"
+  },
+  {
     "package": "git2rdata",
     "oncran": true
   },
@@ -10,10 +13,13 @@
     "package": "grtsdb"
   },
   {
-    "package": "INBOtheme"
+    "package": "ladybird"
   },
   {
     "package": "INBOmd"
+  },
+  {
+    "package": "INBOtheme"
   },
   {
     "package": "inlatools"
