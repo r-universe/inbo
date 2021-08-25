@@ -13,9 +13,6 @@
     "package": "grtsdb"
   },
   {
-    "package": "ladybird"
-  },
-  {
     "package": "INBOmd"
   },
   {
@@ -23,6 +20,12 @@
   },
   {
     "package": "inlatools"
+  },
+  {
+    "package": "ladybird"
+  },
+  {
+    "package": "lipsum"
   },
   {
     "package": "multimput"

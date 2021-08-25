@@ -23,11 +23,6 @@
 	url = https://github.com/inbo/grtsdb
 	shallow = true
 	registered = true
-[submodule "ladybird"]
-	path = ladybird
-	url = https://github.com/inbo/ladybird
-	shallow = true
-	registered = true
 [submodule "INBOmd"]
 	path = INBOmd
 	url = https://github.com/inbo/inbomd
@@ -41,6 +36,16 @@
 [submodule "inlatools"]
 	path = inlatools
 	url = https://github.com/inbo/inlatools
+	shallow = true
+	registered = true
+[submodule "ladybird"]
+	path = ladybird
+	url = https://github.com/inbo/ladybird
+	shallow = true
+	registered = true
+[submodule "lipsum"]
+	path = lipsum
+	url = https://github.com/inbo/lipsum
 	shallow = true
 	registered = true
 [submodule "multimput"]
