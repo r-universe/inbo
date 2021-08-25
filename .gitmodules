@@ -53,9 +53,19 @@
 	url = https://github.com/inbo/multimput
 	shallow = true
 	registered = true
+[submodule "n2khab"]
+	path = n2khab
+	url = https://github.com/inbo/n2khab
+	shallow = true
+	registered = true
 [submodule "territoria"]
 	path = territoria
 	url = https://github.com/inbo/territoria
+	shallow = true
+	registered = true
+[submodule "watina"]
+	path = watina
+	url = https://github.com/inbo/watina
 	shallow = true
 	registered = true
 [submodule "INLA"]
