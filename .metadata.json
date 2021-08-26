@@ -13,6 +13,9 @@
     "package": "grtsdb"
   },
   {
+    "package": "inbodb"
+  },
+  {
     "package": "INBOmd"
   },
   {
@@ -26,6 +29,9 @@
   },
   {
     "package": "lipsum"
+  },
+  {
+    "package": "LSVI"
   },
   {
     "package": "multimput"
