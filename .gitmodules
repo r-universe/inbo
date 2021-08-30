@@ -33,6 +33,11 @@
 	url = https://github.com/inbo/inbomd
 	shallow = true
 	registered = true
+[submodule "inborutils"]
+	path = inborutils
+	url = https://github.com/inbo/inborutils
+	shallow = true
+	registered = true
 [submodule "INBOtheme"]
 	path = INBOtheme
 	url = https://github.com/inbo/inbotheme
@@ -66,6 +71,11 @@
 [submodule "n2khab"]
 	path = n2khab
 	url = https://github.com/inbo/n2khab
+	shallow = true
+	registered = true
+[submodule "protocolhelper"]
+	path = protocolhelper
+	url = https://github.com/inbo/protocolhelper
 	shallow = true
 	registered = true
 [submodule "territoria"]

@@ -19,6 +19,9 @@
     "package": "INBOmd"
   },
   {
+    "package": "inborutils"
+  },
+  {
     "package": "INBOtheme"
   },
   {
@@ -38,6 +41,9 @@
   },
   {
     "package": "n2khab"
+  },
+  {
+    "package": "protocolhelper"
   },
   {
     "package": "territoria"
