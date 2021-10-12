@@ -38,21 +38,6 @@
 	url = https://github.com/inbo/inborutils
 	shallow = true
 	registered = true
-[submodule "INBOtheme"]
-	path = INBOtheme
-	url = https://github.com/inbo/inbotheme
-	shallow = true
-	registered = true
-[submodule "inlatools"]
-	path = inlatools
-	url = https://github.com/inbo/inlatools
-	shallow = true
-	registered = true
-[submodule "ladybird"]
-	path = ladybird
-	url = https://github.com/inbo/ladybird
-	shallow = true
-	registered = true
 [submodule "lipsum"]
 	path = lipsum
 	url = https://github.com/inbo/lipsum
@@ -61,11 +46,6 @@
 [submodule "LSVI"]
 	path = LSVI
 	url = https://github.com/inbo/lsvi
-	shallow = true
-	registered = true
-[submodule "multimput"]
-	path = multimput
-	url = https://github.com/inbo/multimput
 	shallow = true
 	registered = true
 [submodule "n2khab"]
@@ -81,11 +61,6 @@
 [submodule "territoria"]
 	path = territoria
 	url = https://github.com/inbo/territoria
-	shallow = true
-	registered = true
-[submodule "watina"]
-	path = watina
-	url = https://github.com/inbo/watina
 	shallow = true
 	registered = true
 [submodule "INLA"]
