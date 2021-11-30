@@ -8,6 +8,11 @@
 	url = https://github.com/inbo/checklist
 	shallow = true
 	registered = true
+[submodule "codemetar"]
+	path = codemetar
+	url = https://github.com/ropensci/codemetar
+	shallow = true
+	registered = true
 [submodule "effectclass"]
 	path = effectclass
 	url = https://github.com/inbo/effectclass
