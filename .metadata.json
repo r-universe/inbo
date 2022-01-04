@@ -3,7 +3,8 @@
     "package": "checklist"
   },
   {
-    "package": "codemetar"
+    "package": "codemetar",
+    "oncran": false
   },
   {
     "package": "effectclass"
