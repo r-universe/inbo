@@ -20,6 +20,9 @@
     "package": "grtsdb"
   },
   {
+    "package": "frictionless"
+  },
+  {
     "package": "inbodb"
   },
   {

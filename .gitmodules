@@ -33,6 +33,11 @@
 	url = https://github.com/inbo/grtsdb
 	shallow = true
 	registered = true
+[submodule "frictionless"]
+	path = frictionless
+	url = https://github.com/frictionlessdata/frictionless-r
+	shallow = true
+	registered = true
 [submodule "inbodb"]
 	path = inbodb
 	url = https://github.com/inbo/inbodb
