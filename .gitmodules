@@ -98,6 +98,11 @@
 	url = https://github.com/inbo/territoria
 	shallow = true
 	registered = true
+[submodule "wateRinfo"]
+	path = wateRinfo
+	url = https://github.com/rOpenSci/wateRinfo
+	shallow = true
+	registered = true
 [submodule "watina"]
 	path = watina
 	url = https://github.com/inbo/watina
