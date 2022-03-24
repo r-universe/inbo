@@ -133,3 +133,8 @@
 	url = https://github.com/r-lib/lintr
 	shallow = true
 	registered = false
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+	shallow = true
+	registered = false
