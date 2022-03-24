@@ -93,6 +93,11 @@
 	url = https://github.com/inbo/n2khab
 	shallow = true
 	registered = true
+[submodule "n2khelper"]
+	path = n2khelper
+	url = https://github.com/inbo/n2khelper
+	shallow = true
+	registered = true
 [submodule "protocolhelper"]
 	path = protocolhelper
 	url = https://github.com/inbo/protocolhelper
