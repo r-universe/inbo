@@ -88,6 +88,11 @@
 	url = https://github.com/inbo/multimput
 	shallow = true
 	registered = true
+[submodule "n2kanalysis"]
+	path = n2kanalysis
+	url = https://github.com/inbo/n2kanalysis
+	shallow = true
+	registered = true
 [submodule "n2khab"]
 	path = n2khab
 	url = https://github.com/inbo/n2khab
