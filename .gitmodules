@@ -73,6 +73,11 @@
 	url = https://github.com/inbo/ladybird
 	shallow = true
 	registered = true
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/r-lib/lintr
+	shallow = true
+	registered = true
 [submodule "lipsum"]
 	path = lipsum
 	url = https://github.com/inbo/lipsum
@@ -131,11 +136,6 @@
 [submodule "colorblindr"]
 	path = colorblindr
 	url = https://github.com/clauswilke/colorblindr
-	shallow = true
-	registered = false
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/r-lib/lintr
 	shallow = true
 	registered = false
 [submodule "lubridate"]

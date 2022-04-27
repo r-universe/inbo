@@ -45,6 +45,10 @@
     "package": "ladybird"
   },
   {
+    "package": "lintr",
+    "oncran": true
+  },
+  {
     "package": "lipsum"
   },
   {
