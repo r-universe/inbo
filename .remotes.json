@@ -30,12 +30,6 @@
     "from": "watina"
   },
   {
-    "package": "lintr",
-    "url": "https://github.com/r-lib/lintr",
-    "via": ["checklist"],
-    "from": "checklist"
-  },
-  {
     "package": "lubridate",
     "url": "https://github.com/tidyverse/lubridate",
     "via": ["n2khelper"],
