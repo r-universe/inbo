@@ -46,7 +46,7 @@
   },
   {
     "package": "lintr",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "lipsum"
