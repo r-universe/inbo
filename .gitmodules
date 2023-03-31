@@ -128,6 +128,11 @@
 	url = https://github.com/inbo/watina
 	shallow = true
 	registered = true
+[submodule "zen4R"]
+	path = zen4R
+	url = https://github.com/eblondel/zen4R
+	shallow = true
+	registered = true
 [submodule "colorblindr"]
 	path = colorblindr
 	url = https://github.com/clauswilke/colorblindr
