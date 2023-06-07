@@ -68,6 +68,11 @@
 	url = https://github.com/inbo/inlatools
 	shallow = true
 	registered = true
+[submodule "kableExtra"]
+	path = kableExtra
+	url = https://github.com/ThierryO/kableExtra
+	shallow = true
+	registered = true
 [submodule "ladybird"]
 	path = ladybird
 	url = https://github.com/inbo/ladybird
