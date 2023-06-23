@@ -73,6 +73,11 @@
 	url = https://github.com/ThierryO/kableExtra
 	shallow = true
 	registered = true
+[submodule "KSgeneral"]
+	path = KSgeneral
+	url = https://github.com/raymondtsr/ksgeneral
+	shallow = true
+	registered = true
 [submodule "ladybird"]
 	path = ladybird
 	url = https://github.com/inbo/ladybird
