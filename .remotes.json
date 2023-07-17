@@ -20,7 +20,25 @@
   {
     "package": "lubridate",
     "url": "https://github.com/tidyverse/lubridate",
+    "via": ["n2kanalysis", "n2khelper"],
+    "from": "n2kanalysis"
+  },
+  {
+    "package": "lubridate",
+    "url": "https://github.com/tidyverse/lubridate",
     "via": ["n2khelper"],
     "from": "n2khelper"
+  },
+  {
+    "package": "multimput",
+    "url": "https://github.com/inbo/multimput",
+    "via": ["n2kanalysis"],
+    "from": "n2kanalysis"
+  },
+  {
+    "package": "n2khelper",
+    "url": "https://github.com/inbo/n2khelper",
+    "via": ["n2kanalysis"],
+    "from": "n2kanalysis"
   }
 ]
