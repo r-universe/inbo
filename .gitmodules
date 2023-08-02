@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/inbo/universe
 	branch = HEAD
+[submodule "INBOmd"]
+	path = INBOmd
+	url = https://github.com/inbo/inbomd
+[submodule "INBOtheme"]
+	path = INBOtheme
+	url = https://github.com/inbo/inbotheme
+[submodule "KSgeneral"]
+	path = KSgeneral
+	url = https://github.com/raymondtsr/ksgeneral
+[submodule "LSVI"]
+	path = LSVI
+	url = https://github.com/inbo/lsvi
 [submodule "camtraptor"]
 	path = camtraptor
 	url = https://github.com/inbo/camtraptor
@@ -11,42 +23,37 @@
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
+[submodule "colorblindr"]
+	path = colorblindr
+	url = https://github.com/clauswilke/colorblindr
+	registered = false
 [submodule "dhcurve"]
 	path = dhcurve
 	url = https://github.com/inbo/dhcurve
 [submodule "effectclass"]
 	path = effectclass
 	url = https://github.com/inbo/effectclass
+[submodule "frictionless"]
+	path = frictionless
+	url = https://github.com/frictionlessdata/frictionless-r
 [submodule "git2rdata"]
 	path = git2rdata
 	url = https://github.com/ropensci/git2rdata
 [submodule "grtsdb"]
 	path = grtsdb
 	url = https://github.com/inbo/grtsdb
-[submodule "frictionless"]
-	path = frictionless
-	url = https://github.com/frictionlessdata/frictionless-r
 [submodule "inbodb"]
 	path = inbodb
 	url = https://github.com/inbo/inbodb
-[submodule "INBOmd"]
-	path = INBOmd
-	url = https://github.com/inbo/inbomd
 [submodule "inborutils"]
 	path = inborutils
 	url = https://github.com/inbo/inborutils
-[submodule "INBOtheme"]
-	path = INBOtheme
-	url = https://github.com/inbo/inbotheme
 [submodule "inlatools"]
 	path = inlatools
 	url = https://github.com/inbo/inlatools
 [submodule "kableExtra"]
 	path = kableExtra
 	url = https://github.com/ThierryO/kableExtra
-[submodule "KSgeneral"]
-	path = KSgeneral
-	url = https://github.com/raymondtsr/ksgeneral
 [submodule "ladybird"]
 	path = ladybird
 	url = https://github.com/inbo/ladybird
@@ -56,9 +63,10 @@
 [submodule "lipsum"]
 	path = lipsum
 	url = https://github.com/inbo/lipsum
-[submodule "LSVI"]
-	path = LSVI
-	url = https://github.com/inbo/lsvi
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+	registered = false
 [submodule "multimput"]
 	path = multimput
 	url = https://github.com/inbo/multimput
@@ -86,11 +94,3 @@
 [submodule "zen4R"]
 	path = zen4R
 	url = https://github.com/eblondel/zen4R
-[submodule "colorblindr"]
-	path = colorblindr
-	url = https://github.com/clauswilke/colorblindr
-	registered = false
-[submodule "lubridate"]
-	path = lubridate
-	url = https://github.com/tidyverse/lubridate
-	registered = false
