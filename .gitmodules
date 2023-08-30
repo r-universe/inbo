@@ -48,6 +48,9 @@
 [submodule "inborutils"]
 	path = inborutils
 	url = https://github.com/inbo/inborutils
+[submodule "inbospatial"]
+	path = inbospatial
+	url = https://github.com/inbo/inbospatial
 [submodule "inlatools"]
 	path = inlatools
 	url = https://github.com/inbo/inlatools
