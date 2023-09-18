@@ -8,9 +8,6 @@
 [submodule "INBOtheme"]
 	path = INBOtheme
 	url = https://github.com/inbo/inbotheme
-[submodule "KSgeneral"]
-	path = KSgeneral
-	url = https://github.com/raymondtsr/ksgeneral
 [submodule "LSVI"]
 	path = LSVI
 	url = https://github.com/inbo/lsvi
