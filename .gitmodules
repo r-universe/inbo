@@ -76,6 +76,9 @@
 [submodule "n2khab"]
 	path = n2khab
 	url = https://github.com/inbo/n2khab
+[submodule "n2khabmon"]
+	path = n2khabmon
+	url = https://github.com/inbo/n2khabmon
 [submodule "n2khelper"]
 	path = n2khelper
 	url = https://github.com/inbo/n2khelper
