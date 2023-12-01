@@ -36,6 +36,12 @@
     "from": "n2kanalysis"
   },
   {
+    "package": "n2khab",
+    "url": "https://github.com/inbo/n2khab",
+    "via": ["n2khabmon"],
+    "from": "n2khabmon"
+  },
+  {
     "package": "n2khelper",
     "url": "https://github.com/inbo/n2khelper",
     "via": ["n2kanalysis"],
