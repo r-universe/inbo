@@ -85,6 +85,9 @@
 [submodule "protocolhelper"]
 	path = protocolhelper
 	url = https://github.com/inbo/protocolhelper
+[submodule "qgisprocess"]
+	path = qgisprocess
+	url = https://github.com/r-spatial/qgisprocess
 [submodule "territoria"]
 	path = territoria
 	url = https://github.com/inbo/territoria
