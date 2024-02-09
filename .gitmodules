@@ -57,9 +57,6 @@
 [submodule "ladybird"]
 	path = ladybird
 	url = https://github.com/inbo/ladybird
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/r-lib/lintr
 [submodule "lipsum"]
 	path = lipsum
 	url = https://github.com/inbo/lipsum
