@@ -88,6 +88,9 @@
 [submodule "territoria"]
 	path = territoria
 	url = https://github.com/inbo/territoria
+[submodule "trias"]
+	path = trias
+	url = https://github.com/trias-project/trias
 [submodule "wateRinfo"]
 	path = wateRinfo
 	url = https://github.com/rOpenSci/wateRinfo
