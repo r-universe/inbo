@@ -11,6 +11,9 @@
 [submodule "LSVI"]
 	path = LSVI
 	url = https://github.com/inbo/lsvi
+[submodule "camtrapdp"]
+	path = camtrapdp
+	url = https://github.com/inbo/camtrapdp
 [submodule "camtraptor"]
 	path = camtraptor
 	url = https://github.com/inbo/camtraptor
