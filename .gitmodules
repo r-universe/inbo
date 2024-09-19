@@ -33,6 +33,9 @@
 [submodule "effectclass"]
 	path = effectclass
 	url = https://github.com/inbo/effectclass
+[submodule "forrescalc"]
+	path = forrescalc
+	url = https://github.com/inbo/forrescalc
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/frictionlessdata/frictionless-r
