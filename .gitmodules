@@ -33,6 +33,9 @@
 [submodule "effectclass"]
 	path = effectclass
 	url = https://github.com/inbo/effectclass
+[submodule "etn"]
+	path = etn
+	url = https://github.com/inbo/etn
 [submodule "forrescalc"]
 	path = forrescalc
 	url = https://github.com/inbo/forrescalc
@@ -70,6 +73,9 @@
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
 	registered = false
+[submodule "movepub"]
+	path = movepub
+	url = https://github.com/inbo/movepub
 [submodule "multimput"]
 	path = multimput
 	url = https://github.com/inbo/multimput
