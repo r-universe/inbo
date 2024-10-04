@@ -11,6 +11,9 @@
 [submodule "LSVI"]
 	path = LSVI
 	url = https://github.com/inbo/lsvi
+[submodule "abvanalysis"]
+	path = abvanalysis
+	url = https://github.com/inbo/abvanalysis
 [submodule "camtrapdp"]
 	path = camtrapdp
 	url = https://github.com/inbo/camtrapdp
@@ -91,6 +94,9 @@
 [submodule "n2khelper"]
 	path = n2khelper
 	url = https://github.com/inbo/n2khelper
+[submodule "n2kupdate"]
+	path = n2kupdate
+	url = https://github.com/inbo/n2kupdate
 [submodule "protocolhelper"]
 	path = protocolhelper
 	url = https://github.com/inbo/protocolhelper
