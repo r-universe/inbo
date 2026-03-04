@@ -26,6 +26,9 @@
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
+[submodule "designpower"]
+	path = designpower
+	url = https://github.com/inbo/designpower
 [submodule "dhcurve"]
 	path = dhcurve
 	url = https://github.com/inbo/dhcurve
