@@ -71,6 +71,9 @@
 [submodule "ladybird"]
 	path = ladybird
 	url = https://github.com/inbo/ladybird
+[submodule "leaflet.extras"]
+	path = leaflet.extras
+	url = https://github.com/trafficonese/leaflet.extras
 [submodule "lipsum"]
 	path = lipsum
 	url = https://github.com/inbo/lipsum
