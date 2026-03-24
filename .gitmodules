@@ -77,6 +77,9 @@
 [submodule "lipsum"]
 	path = lipsum
 	url = https://github.com/inbo/lipsum
+[submodule "mnedesigndata"]
+	path = mnedesigndata
+	url = https://github.com/inbo/mnedesigndata
 [submodule "movepub"]
 	path = movepub
 	url = https://github.com/inbo/movepub
