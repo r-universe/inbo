@@ -23,6 +23,9 @@
 [submodule "checklist"]
 	path = checklist
 	url = https://github.com/inbo/checklist
+[submodule "citeme"]
+	path = citeme
+	url = https://github.com/inbo/citeme
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
